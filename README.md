@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ItsKyy Dev</h1>
 <h3 align="center">just a kid who dreams of becoming a programmer</h3>
 
-- 🌱 I’m currently learning **Css, Js, py and GO**
+- 🌱 I’m currently learning **Css, Js, Ruby, py and GO**
 
 - 📫 How to reach me **itskyy.dev@gmail.com**
 
