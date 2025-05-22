@@ -1,13 +1,58 @@
 <h1 align="center">Hi 👋, I'm ItsKyy Dev</h1>
-<h3 align="center">just a kid who dreams of becoming a programmer</h3>
+<h3 align="center">Just a kid who dreams of becoming a great programmer 🚀</h3>
 
-- 🌱 I’m currently learning **Css, Js, Ruby and py**
+---
 
-- 📫 How to reach me **itskyy.dev@gmail.com**
+### 🌟 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m a self-taught coder with strong passion for building and learning.
+- 🌱 Currently focusing on **CSS, JavaScript, Ruby, and Python**.
+- 💻 Skilled in various languages including **HTML, CSS, JS, Python, C++, and Ruby**.
+- 💼 I offer coding services! I can help you build websites, solve programming problems, or assist with any small-to-medium coding tasks.
+- 📫 Reach me at **itskyy.dev@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsKyy&show_icons=true&theme=radical" alt="ItsKyy GitHub Stats"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  📧 Email: [itskyy.dev@gmail.com](mailto:itskyy.dev@gmail.com)  
+</p>
+
+---
+
+### 🧠 Let's Work Together!
+
+Need help with coding projects? I'm open for:
+
+- ✨ Website creation (frontend/backend)
+- 🐍 Python/Ruby scripting
+- 🔧 Debugging and optimization
+- 📚 Programming assignments or challenges
+
+Feel free to reach out!
+
+---
+
+> “Dream big, code smart.” – ItsKyy Dev
