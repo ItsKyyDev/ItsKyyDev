@@ -30,7 +30,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  📧 Email: [itskyy.dev@gmail.com](mailto:itskyy.dev@gmail.com)  
+  📧 Email: [itskyy.dev@gmail.com]  
 </p>
 
 ---
