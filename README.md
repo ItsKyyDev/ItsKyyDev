@@ -29,8 +29,8 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  📧 Email: [itskyy.dev@gmail.com]  
-  https://discord.com/users/905304651107291156
+ - 📧 Email: [itskyy.dev@gmail.com]  
+ - https://discord.com/users/905304651107291156
 </p>
 
 ---
