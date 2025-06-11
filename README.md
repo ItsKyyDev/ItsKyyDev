@@ -9,7 +9,6 @@
 - 🌱 Currently focusing on **CSS, JavaScript, Ruby, and Python**.
 - 💻 Skilled in various languages including **HTML, CSS, JS, Python, C++, and Ruby**.
 - 💼 I offer coding services! I can help you build websites, solve programming problems, or assist with any small-to-medium coding tasks.
-- 📫 Reach me at **itskyy.dev@gmail.com**
 
 ---
 
@@ -31,6 +30,7 @@
 
 <p align="left">
   📧 Email: [itskyy.dev@gmail.com]  
+  https://discord.com/users/905304651107291156
 </p>
 
 ---
