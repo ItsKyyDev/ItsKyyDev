@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ItsKyy Dev</h1>
+<h1 align="center">Hi 👋, I'm ItsKyyDev</h1>
 <h3 align="center">Just a kid who dreams of becoming a great programmer 🚀</h3>
 
 ---
@@ -7,7 +7,7 @@
 
 - 🔭 I’m a self-taught coder with strong passion for building and learning.
 - 🌱 Currently focusing on **CSS, JavaScript, Ruby, and Python**.
-- 💻 Skilled in various languages including **HTML, CSS, JS, Python, C++, and Ruby**.
+- 💻 Skilled in various languages including **HTML, CSS, JS, Python, C++**.
 - 💼 I offer coding services! I can help you build websites, solve programming problems, or assist with any small-to-medium coding tasks.
 
 ---
