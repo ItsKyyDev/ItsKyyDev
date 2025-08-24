@@ -35,7 +35,7 @@
 Need help with coding projects? I'm open for:
 
 - ✨ Website creation (frontend/backend)
-- 🐍 Python/Ruby scripting
+- 🐍 Python/Js scripting
 - 🔧 Debugging and optimization
 - 📚 Programming assignments or challenges
 
