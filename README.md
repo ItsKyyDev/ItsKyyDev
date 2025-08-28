@@ -7,7 +7,7 @@
 
 - 🔭 I’m a self-taught coder with strong passion for building and learning.
 - 🌱 Currently focusing on **CSS, JavaScript, and Python**.
-- 💻 Skilled in various languages including **HTML, CSS, JS, Python, C++**.
+- 💻 Skilled in various languages including **HTML, CSS, JS, Python, C++ and C**.
 - 💼 I offer coding services! I can help you build websites, solve programming problems, or assist with any small-to-medium coding tasks.
 
 ---
@@ -20,14 +20,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
 
 ---
 
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsKyyDev&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKyyDev&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
 
 ### 🤝 Connect With Me
- - [📧 Email](mailto:itskyy.dev@gmail.com)  
- - [discord](https://discord.com/users/905304651107291156)
+- [📧 Email](mailto:itskyy.dev@gmail.com)  
+- [Discord](https://discord.com/users/905304651107291156)
 
 ---
 
@@ -43,4 +55,4 @@ Feel free to reach out!
 
 ---
 
-> “Dream big, code smart.” – ItsKyy Dev
+> “Dream big, code smart.” – ItsKyyDev
