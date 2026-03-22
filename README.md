@@ -38,7 +38,7 @@
 ---
 
 ### 🤝 Connect With Me
-- [📧 Email](mailto:itskyy.dev@gmail.com)  
+- [Email](mailto:itskyy.dev@gmail.com)  
 - [Discord](https://discord.com/users/905304651107291156)
 
 ---
